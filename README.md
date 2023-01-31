@@ -8,7 +8,17 @@ Aqui você vai encontrar os detalhes de como estruturar o desenvolvimento do seu
 
 Ao iniciar este projeto, você concorda com as diretrizes do Código de Conduta e do Manual da Pessoa Estudante da Trybe.
 
-# Entregáveis
+# Features
+
+  * Utilizar os seletores (queries) da React-Testing-Library em testes automatizados;
+
+  * Simular eventos com a React-Testing-Library em testes automatizados;
+
+  * Testar fluxos lógicos assíncronos com a React-Testing-Library;
+
+  * Escrever testes que permitam a refatoração da estrutura dos componentes da aplicação sem necessidade de serem alterados;
+
+  * Testar inputs.
 
 <details>
   <summary><strong>🤷🏽‍♀️ Como entregar</strong></summary><br />
