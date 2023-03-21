@@ -15,5 +15,6 @@
 * Write tests that allow the refactoring of the structure of the components of the application without needing to be changed;
 
 * Test inputs.
-
+## Directory
+`/src/tests/`
 
